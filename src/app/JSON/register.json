@@ -1,0 +1,50 @@
+{
+  "register": [
+    {
+      "userId": "7",
+      "firstName": "vinay",
+      "lastName": "talreja",
+      "email_Id": "vinay@gmail.com",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "userId": "7",
+      "firstName": "vinay",
+      "lastName": "talreja",
+      "email_Id": "vinay@gmail.com",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "userId": "8",
+      "firstName": "aditya",
+      "lastName": "raj",
+      "email_Id": "adya@gmail.com",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "userId": "4",
+      "firstName": "abc",
+      "lastName": "def",
+      "phone": "893451235",
+      "email_Id": "abc@gmail.com",
+      "password": "abc123",
+      "role": "user",
+      "createdOn": "29-09-1996",
+      "id": 4
+    },
+    {
+      "userId": "6",
+      "firstName": "abcd",
+      "lastName": "defg",
+      "phone": "8934512351",
+      "email_Id": "abcd@gmail.com",
+      "password": "abc1234",
+      "role": "doctor",
+      "createdOn": "29-09-1995",
+      "id": 5
+    }
+  ]
+}
